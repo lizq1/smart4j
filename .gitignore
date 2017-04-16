@@ -1,0 +1,14 @@
+# Maven #
+target/
+
+# IDEA #
+.idea/
+
+# Eclipse #
+.settings/
+.metadata/
+.classpath
+.project
+smart4j.iml
+.gitignore
+Servers/
