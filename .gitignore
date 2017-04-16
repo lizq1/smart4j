@@ -3,12 +3,11 @@ target/
 
 # IDEA #
 .idea/
+*.iml
 
 # Eclipse #
 .settings/
 .metadata/
 .classpath
 .project
-smart4j.iml
-.gitignore
 Servers/
